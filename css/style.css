@@ -1,1 +1,9 @@
 /* Header section */
+.buybtn{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+
+}
+.buybtn:hover{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 20%);
+
+}
